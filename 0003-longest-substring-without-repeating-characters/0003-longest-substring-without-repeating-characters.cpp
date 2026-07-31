@@ -8,19 +8,21 @@ public:
         string t = "";
         t += s[l];
         int count = 1;
-        while(l<h && h<s.length()){
+        while(l<=h && h<s.length()){
             if(t.find(s[h])==string::npos){
                 t+=s[h];
                 count++;
                 ans = max(ans,count);
                 h++;
             }
+            else if(l==h){
+                h++;
+                count++;
+            }
             else{
-                t ="";
+                t = t.substr(1);
                 l++;
-                t+=s[l];
-                h = l+1;
-                count = 1;
+                count--;               
             }
         }
         return max(ans,count);

@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vansh931/problem-solving/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/Vansh931/problem-solving/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Vansh931/problem-solving/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh931/problem-solving/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vansh931/problem-solving/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh931/problem-solving/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vansh931/problem-solving/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Vansh931/problem-solving/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

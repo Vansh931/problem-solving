@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vansh931/problem-solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vansh931/problem-solving/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Vansh931/problem-solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Vansh931/problem-solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh931/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Vansh931/problem-solving/tree/master/0509-fibonacci-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vansh931/problem-solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Vansh931/problem-solving/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Vansh931/problem-solving/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Vansh931/problem-solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vansh931/problem-solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vansh931/problem-solving/tree/master/0342-power-of-four) |
@@ -123,5 +125,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vansh931/problem-solving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Vansh931/problem-solving/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

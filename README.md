@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vansh931/problem-solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh931/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh931/problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/Vansh931/problem-solving/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh931/problem-solving/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -45,15 +46,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vansh931/problem-solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vansh931/problem-solving/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Vansh931/problem-solving/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vansh931/problem-solving/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Vansh931/problem-solving/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh931/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Vansh931/problem-solving/tree/master/0073-set-matrix-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Vansh931/problem-solving/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh931/problem-solving/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |

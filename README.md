@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vansh931/problem-solving/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Vansh931/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Vansh931/problem-solving/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vansh931/problem-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Vansh931/problem-solving/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh931/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Vansh931/problem-solving/tree/master/0020-valid-parentheses) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vansh931/problem-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Vansh931/problem-solving/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |

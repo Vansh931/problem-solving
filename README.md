@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh931/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Vansh931/problem-solving/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh931/problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Vansh931/problem-solving/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vansh931/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Vansh931/problem-solving/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh931/problem-solving/tree/master/2965-find-missing-and-repeated-values) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vansh931/problem-solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh931/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Vansh931/problem-solving/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Vansh931/problem-solving/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vansh931/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Vansh931/problem-solving/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vansh931/problem-solving/tree/master/0516-longest-palindromic-subsequence) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Vansh931/problem-solving/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh931/problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Vansh931/problem-solving/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Vansh931/problem-solving/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Vansh931/problem-solving/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Vansh931/problem-solving/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

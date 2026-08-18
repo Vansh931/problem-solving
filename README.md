@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vansh931/problem-solving/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Vansh931/problem-solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh931/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Vansh931/problem-solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Vansh931/problem-solving/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh931/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh931/problem-solving/tree/master/0300-longest-increasing-subsequence) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vansh931/problem-solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Vansh931/problem-solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh931/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Vansh931/problem-solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Vansh931/problem-solving/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh931/problem-solving/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vansh931/problem-solving/tree/master/0416-partition-equal-subset-sum) |

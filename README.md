@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vansh931/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh931/problem-solving/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vansh931/problem-solving/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Vansh931/problem-solving/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Vansh931/problem-solving/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh931/problem-solving/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vansh931/problem-solving/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/Vansh931/problem-solving/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vansh931/problem-solving/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh931/problem-solving/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vansh931/problem-solving/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Vansh931/problem-solving/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Vansh931/problem-solving/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vansh931/problem-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Vansh931/problem-solving/tree/master/1143-longest-common-subsequence) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Vansh931/problem-solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vansh931/problem-solving/tree/master/0075-sort-colors) |
+| [0435-non-overlapping-intervals](https://github.com/Vansh931/problem-solving/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |

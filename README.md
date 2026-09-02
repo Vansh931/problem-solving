@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Vansh931/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vansh931/problem-solving/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Vansh931/problem-solving/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Vansh931/problem-solving/tree/master/0621-task-scheduler) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh931/problem-solving/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vansh931/problem-solving/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/Vansh931/problem-solving/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Vansh931/problem-solving/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh931/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Vansh931/problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Vansh931/problem-solving/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Vansh931/problem-solving/tree/master/0621-task-scheduler) |
 | [2965-find-missing-and-repeated-values](https://github.com/Vansh931/problem-solving/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vansh931/problem-solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vansh931/problem-solving/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/Vansh931/problem-solving/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Vansh931/problem-solving/tree/master/0621-task-scheduler) |
 ## Quicksort
 |  |
 | ------- |
@@ -239,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Vansh931/problem-solving/tree/master/0300-longest-increasing-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Vansh931/problem-solving/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Vansh931/problem-solving/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->

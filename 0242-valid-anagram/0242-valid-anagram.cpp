@@ -2,13 +2,13 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         if(s.length()!=t.length()) return false;
-        unordered_map<char,int>m;
+        vector<int>v(26,0);
         for(char c:s){
-            m[c]++;
+            v[c-'a']++;
         }
         for(char c:t){
-            if(m[c]>0){
-                m[c]--;
+            if(v[c-'a']>0){
+                v[c-'a']--;
             }
             else{
                 return false;
